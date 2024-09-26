@@ -1,0 +1,19 @@
+Variety	Cultivar	Repetition	Species	Pythium_species	Germination_rate	Shoot_weight_fresh	Root_weight_fresh	Shoot_weight_fresh_per_plant	Root_weight_dry_per_plant	Plant_1	Plant_2	Plant_3
+Benedictio	Corn	1	NC	NC	1	13.32	0.74	4.44	0.246666667	1	1	1
+Benedictio	Corn	2	NC	NC	1	13.54	0.54	4.513333333	0.18	1	1	1
+Benedictio	Corn	3	NC	NC	1	14.63	0.58	4.876666667	0.193333333	1	1	1
+Benedictio	Corn	4	NC	NC	1	7.65	0.44	2.55	0.146666667	1	1	1
+Benedictio	Corn	5	NC	NC	1	14.07	0.71	4.69	0.236666667	1	1	1
+Benedictio	Corn	6	NC	NC	1	15.93	0.59	5.31	0.196666667	1	1	1
+Benedictio	Corn	1	P02_19	G. attrantheridium	1	10.5	0.5	3.5	0.166666667	1	1	1
+Benedictio	Corn	2	P02_19	G. attrantheridium	1	14.06	0.5	4.686666667	0.166666667	1	1	1
+Benedictio	Corn	3	P02_19	G. attrantheridium	1	13.83	0.58	4.61	0.193333333	1	1	1
+Benedictio	Corn	4	P02_19	G. attrantheridium	1	12.11	0.45	4.036666667	0.15	1	1	1
+Benedictio	Corn	5	P02_19	G. attrantheridium	1	10.94	0.49	3.646666667	0.163333333	1	1	1
+Benedictio	Corn	6	P02_19	G. attrantheridium	1	13.72	0.6	4.573333333	0.2	1	1	1
+Benedictio	Corn	1	P38_19	G. ultimum var. ultimum	0.333333333	3.13	0.15	3.13	0.15	1	0	0
+Benedictio	Corn	2	P38_19	G. ultimum var. ultimum	0	0	0	0	0	0	0	0
+Benedictio	Corn	3	P38_19	G. ultimum var. ultimum	0.666666667	4.69	0.28	2.345	0.14	1	1	0
+Benedictio	Corn	4	P38_19	G. ultimum var. ultimum	0.666666667	4.63	0.34	2.315	0.16	1	1	0
+Benedictio	Corn	5	P38_19	G. ultimum var. ultimum	1	8.32	0.45	2.773333333	0.15	1	1	1
+Benedictio	Corn	6	P38_19	G. ultimum var. ultimum	0.666666667	4.58	0.31	2.29	0.16	1	1	0

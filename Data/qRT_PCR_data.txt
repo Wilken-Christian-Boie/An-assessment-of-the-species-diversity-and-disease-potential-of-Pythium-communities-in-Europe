@@ -1,0 +1,37 @@
+Species	Target	Expression	Plant
+NC	PR1	0.997770535	1
+NC	PR1	0.960967886	2
+NC	PR1	1.041261578	3
+G. attrantheridium	PR1	16.74558028	1
+G. attrantheridium	PR1	18.92171389	2
+G. attrantheridium	PR1	18.56573168	3
+G. ultimum var. ultimum	PR1	99.93961602	1
+G. ultimum var. ultimum	PR1	89.27068874	2
+G. ultimum var. ultimum	PR1	93.50598454	3
+NC	PDF1,2	1.073338693	1
+NC	PDF1,2	0.940454017	2
+NC	PDF1,2	0.98620729	3
+G. attrantheridium	PDF1,2	0.852839148	1
+G. attrantheridium	PDF1,2	0.953362619	2
+G. attrantheridium	PDF1,2	1.013364354	3
+G. ultimum var. ultimum	PDF1,2	0.400834511	1
+G. ultimum var. ultimum	PDF1,2	0.267166573	2
+G. ultimum var. ultimum	PDF1,2	0.213513209	3
+NC	ETR2	0.965400898	1
+NC	ETR2	0.953636578	2
+NC	ETR2	1.080962524	3
+G. attrantheridium	ETR2	1.085162598	1
+G. attrantheridium	ETR2	1.499553505	2
+G. attrantheridium	ETR2	1.456844112	3
+G. ultimum var. ultimum	ETR2	1.738205643	1
+G. ultimum var. ultimum	ETR2	1.812166937	2
+G. ultimum var. ultimum	ETR2	1.232661582	3
+NC	NCED3	1.042096581	1
+NC	NCED3	0.935355447	2
+NC	NCED3	1.022547973	3
+G. attrantheridium	NCED3	1.399550198	1
+G. attrantheridium	NCED3	1.016682861	2
+G. attrantheridium	NCED3	1.054212392	3
+G. ultimum var. ultimum	NCED3	1.19071808	1
+G. ultimum var. ultimum	NCED3	1.045726362	2
+G. ultimum var. ultimum	NCED3	2.501081382	3
